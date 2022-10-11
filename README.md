@@ -70,7 +70,7 @@ for Linux
 - fork this repo and edit TOKEN.txt and fill your bot token
 - use the link below and deploy it
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/8769ANURAG/BYPASS-BOT)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AM-ROBOTS/BYPASS-BOT)
 
 - dont forget to enable worker in resources tab
 - done
